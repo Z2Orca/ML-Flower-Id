@@ -2,4 +2,22 @@
 Identifies 5 different types of flowers
 
 
-In the Sparklab unit I was completing to learn how to make this AI I first started with learning the basics of Machine Learning. Then learned how the model reconizes different things and how it works then went on to create my first model which correctly identifys whether there is a dog or cat in the inputed image. Then, I created a text classification model to identify whether a question was rhetorical or not. Which then I went and created my final product which is a machine learning model that identifies 5 different types of flowers. A skill I gained and worked on during the unit is Adaptability where I had to adapt to the many different interfaces used for creating my model.
+Challenge
+
+The challenge of this project was to create a machine learning model that could identify five different types of flowers. I had to learn how machine learning works and figure out how to make a model recognize different flowers from pictures.
+
+Background
+
+During this SparkLab unit, I learned the basics of machine learning and how AI can recognize different things. I learned how models use examples to find patterns and make predictions. Before making my final project, I created a few smaller models to practice and understand how machine learning works.
+
+Process
+
+First, I learned the basics of machine learning and how AI models recognize different things. Then, I created a model that could tell if an image had a dog or a cat in it. After that, I made a text classification model that could tell if a question was rhetorical or not. Once I finished those projects, I used what I had learned to create my final project, which identifies five different types of flowers.
+
+Product
+
+My final product is a machine learning model that can identify five different types of flowers from pictures. This project let me use the skills I learned from my other models and put them together to make something new. It also helped me understand more about how AI can recognize images and sort them into different categories.
+
+Reflection
+
+One skill I improved during this project was adaptability. I had to get used to different websites, tools, and interfaces while making my models. Each project had different steps, so I had to learn how to use new tools and adjust when things changed. This helped me become better at learning new technology and trying different ways to solve problems. I can use adaptability in the future when learning new skills, using unfamiliar programs, and working on challenging projects.
