@@ -1,6 +1,6 @@
 # ML-Flower-Id
 Identifies 5 different types of flowers
-https://teachablemachine.withgoogle.com/models/61NoX-gIW/
+https://teachablemachine.withgoogle.com/models/b0p_WzntW/
 
 Challenge
 
